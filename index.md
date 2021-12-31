@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Does this work?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about Iceland and vulcanos
